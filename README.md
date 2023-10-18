@@ -1,6 +1,117 @@
-# Getting Started with Create React App
+## TÜRKÇE
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Kitap Filtreleme ve Yönetim Kütüphanesi
+
+Bu proje, kullanıcıların kitapları görüntülemelerine, filtrelemelerine, eklemelerine, düzenlemelerine ve silmelerine olanak tanıyan bir React.js tabanlı kütüphane projesidir.
+
+## Özellikler
+
+- Kitap Listesi: Tüm kitapları görüntüleyebilirsiniz.
+- Filtreleme: Kitapları belirli kriterlere göre filtreleyebilirsiniz.
+- Kitap Ekleme: Yeni kitaplar ekleyebilirsiniz.
+- Kitap Düzenleme: Mevcut kitapları düzenleyebilirsiniz.
+- Kitap Silme: Kitapları kütüphaneden kaldırabilirsiniz.
+
+## Kullanılan Teknolojiler
+
+- HTML
+- SCSS (Sass)
+- JavaScript
+- React.js
+- Node.js
+
+## Kullanılabilir Komutlar
+
+Proje dizininde aşağıdaki komutları çalıştırabilirsiniz:
+
+### `npm start`
+
+Uygulamayı geliştirme modunda çalıştırır.\
+Tarayıcınızda görüntülemek için [http://localhost:3000](http://localhost:3000) adresini açın.
+
+Değişiklik yaptığınızda sayfa otomatik olarak yenilenecektir.\
+Console'da herhangi bir hata da görüntülenebilir.
+
+### `npm test`
+
+Etkileşimli izleme modunda test çalıştırır.\
+Daha fazla bilgi için [testleri çalıştırma](https://facebook.github.io/create-react-app/docs/running-tests) bölümüne bakın.
+
+### `npm run build`
+
+Uygulamayı üretim için `build` klasörüne derler.\
+Üretim modunda React'i doğru bir şekilde paketler ve en iyi performans için derlemeyi optimize eder.
+
+Derleme küçültülür ve dosya adları hash'leri içerir.\
+Uygulamanız dağıtılmaya hazır!
+
+Daha fazla bilgi için [dağıtım](https://facebook.github.io/create-react-app/docs/deployment) bölümüne bakın.
+
+### `npm run eject`
+
+**Not: Bu tek yönlü bir işlemdir. Bir kez `eject` yaptığınızda geri dönemezsiniz!**
+
+Eğer derleme aracı ve yapılandırma seçeneklerinden memnun değilseniz, herhangi bir zaman `eject` yapabilirsiniz. Bu komut, projenizden tek derleme bağımlılığını kaldırır.
+
+Bunun yerine, tüm yapılandırma dosyalarını ve geçiş bağımlılıklarını (webpack, Babel, ESLint vb.) doğrudan projenize kopyalar, böylece bunlar üzerinde tam kontrol sahibi olursunuz. `eject` dışındaki tüm komutlar hala çalışır, ancak kopyalanan betiklere işaret ederler, böylece bunları özelleştirebilirsiniz. Bu noktada kendi başınızasınız.
+
+`eject` kullanmanız gerekmez. Bu özellik küçük ve orta ölçekli dağıtımlar için uygundur ve kullanmaya hazır olduğunuzda özelleştiremezseniz kullanmanız gerekmez.
+
+## Daha Fazla Bilgi
+
+Daha fazla bilgi için [Create React App belgelerine](https://facebook.github.io/create-react-app/docs/getting-started) göz atabilirsiniz.
+
+React'i öğrenmek için [React belgelerine](https://reactjs.org/) bakabilirsiniz.
+
+### Kodu Bölme (Code Splitting)
+
+Bu bölüm [buraya taşındı](https://facebook.github.io/create-react-app/docs/code-splitting).
+
+### Paket Boyutunu Analiz Etmek
+
+Bu bölüm [buraya taşındı](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size).
+
+### İlerleyen Web Uygulaması Oluşturmak
+
+Bu bölüm [buraya taşındı](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app).
+
+### Gelişmiş Yapılandırma
+
+Bu bölüm [buraya taşındı](https://facebook.github.io/create-react-app/docs/advanced-configuration).
+
+### Dağıtım
+
+Bu bölüm [buraya taşındı](https://facebook.github.io/create-react-app/docs/deployment).
+
+### `npm run build` Minify Hatası
+
+Bu bölüm [buraya taşındı](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify).
+
+-----------------------------------------------------------------------------------------------------------------------------------------
+
+## ENGLİSH
+# Book Filtering and Management Library
+
+This project is a React.js-based library project that allows users to view, filter, add, edit, and delete books.
+
+## Features
+
+- Book List: You can view all the books.
+- Filtering: You can filter books based on specific criteria.
+- Adding Books: You can add new books.
+- Editing Books: You can edit existing books.
+- Deleting Books: You can remove books from the library.
+  
+## Technologies Used
+- HTML
+- SCSS (Sass)
+- JavaScript
+- React.js
+- Node.js
+  
+## Available Commands
+
+You can run the following commands in the project directory:
 
 ## Available Scripts
 
