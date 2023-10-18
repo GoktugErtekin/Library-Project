@@ -1,0 +1,39 @@
+form{
+  width: 60%;
+  margin: auto;
+  padding: 15px;
+  background-color: rgba(0, 255, 255, 0.308);
+  border-radius: 15px;
+  min-height: 480px;
+  input,select,textarea{
+    display: block;
+    width: 100%;
+    margin-bottom: 10px;
+    padding: 5px 10px;
+    border: none;
+    text-align: center;
+    font-family: monospace;
+    font-size: 18px;
+  }
+  input[type=submit]{
+    width: 50%;
+    height: 50px;
+    margin: auto;
+    border-radius: 10px;
+    transition: .7s;
+    &:hover{
+        background: url(../image/dead.jpg);
+        background-position: center;
+        background-size: cover;
+        background-repeat: no-repeat;
+        color: white;
+        height: 100px;
+        box-shadow: 5px 5px 15px white;
+        cursor: pointer;
+    }
+    &:disabled{
+      visibility: hidden;
+    }
+  }
+}
+

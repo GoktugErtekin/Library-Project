@@ -1,0 +1,41 @@
+nav{
+    padding: 20px;
+    background: linear-gradient(rgba(0, 255, 255, 0.658),black);
+    display: flex;
+    justify-content: space-between;
+}
+nav img {
+    width: 80px;
+}
+.kategori ul{
+    list-style: none;
+}
+.kategori ul li{
+    display: inline-block;
+    margin-inline: 30px;
+    font-family: monospace;
+    font-size: 18px;
+    transition: .6s;
+}
+.brand{
+    display: flex;
+    align-items: center;
+    font-size: 22px;
+    font-family: monospace;
+}
+.kategori ul li:hover{
+    text-decoration: underline;
+    transform: scale(1.3);
+    color: orangered;
+    cursor: pointer;
+}
+input{
+    padding: 8px 10px;
+    border-radius: 8px;
+    border: none;
+    outline: none;
+}
+input:focus{
+    outline: rgb(0, 255, 255);
+    color: red;
+}
