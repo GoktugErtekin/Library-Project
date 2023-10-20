@@ -20,6 +20,10 @@ Bu proje, kullanıcıların kitapları görüntülemelerine, filtrelemelerine, e
 - React.js
 - Node.js
 
+ ## Nasıl Çalıştırılır
+
+Projeyi VSCode uygulamasında açtıktan sonra cmd konsolu oluşturup "npm run api" yazın. APİ çalıştıktan sonra başka bir terminalde "npm start" yazarak projeyi çalıştırabilirsiniz.
+
 ## Kullanılabilir Komutlar
 
 Proje dizininde aşağıdaki komutları çalıştırabilirsiniz:
@@ -108,6 +112,10 @@ This project is a React.js-based library project that allows users to view, filt
 - JavaScript
 - React.js
 - Node.js
+
+## How to Run
+
+After opening the project in VSCode, create a cmd console and type "npm run api". After the api runs, you can run the project by typing "npm start" in another terminal.
   
 ## Available Commands
 
