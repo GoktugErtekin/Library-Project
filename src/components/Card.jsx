@@ -26,6 +26,5 @@ const Card = ({kitap}) => {
   )
 }
 
-//Erdem Sabri Beşik - 0507 489 60 31
 
 export default Card
