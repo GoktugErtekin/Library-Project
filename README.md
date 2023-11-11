@@ -8,6 +8,7 @@ Bu proje, kullanıcıların kitapları görüntülemelerine, filtrelemelerine, e
 
 - Kitap Listesi: Tüm kitapları görüntüleyebilirsiniz.
 - Filtreleme: Kitapları belirli kriterlere göre filtreleyebilirsiniz.
+- Kitap Arama: İstediğiniz kitabın ismini arama çubuğuna yazarak aratabilirsiniz.
 - Kitap Ekleme: Yeni kitaplar ekleyebilirsiniz.
 - Kitap Düzenleme: Mevcut kitapları düzenleyebilirsiniz.
 - Kitap Silme: Kitapları kütüphaneden kaldırabilirsiniz.
