@@ -7,15 +7,27 @@ Bu proje, kullanıcıların kitapları görüntülemelerine, filtrelemelerine, e
 ## Özellikler
 
 - Filtreleme: Kitapları belirli kriterlere göre filtreleyebilirsiniz.
-  ![kitap-filtreleme](https://github.com/GoktugErtekin/Library-Project/assets/130211667/8ed2afc4-01b0-4eb5-bc3b-5393af759269)
+- ![kitap-filtreleme](https://github.com/GoktugErtekin/Library-Project/assets/130211667/8ed2afc4-01b0-4eb5-bc3b-5393af759269)
+
+
+  
 - Kitap Arama: İstediğiniz kitabın ismini arama çubuğuna yazarak aratabilirsiniz.
-  ![kitap-arama](https://github.com/GoktugErtekin/Library-Project/assets/130211667/a0c29534-d2e2-4caa-bb7b-4c0e823f1e78)
+- ![kitap-arama](https://github.com/GoktugErtekin/Library-Project/assets/130211667/a0c29534-d2e2-4caa-bb7b-4c0e823f1e78)
+
+
+  
 - Kitap Ekleme: Yeni kitaplar ekleyebilirsiniz.
-  ![kitap-ekleme](https://github.com/GoktugErtekin/Library-Project/assets/130211667/43d2949f-6ea2-4b18-a500-30190afb3e12)
+- ![kitap-ekleme](https://github.com/GoktugErtekin/Library-Project/assets/130211667/43d2949f-6ea2-4b18-a500-30190afb3e12)
+
+
+  
 - Kitap Düzenleme: Mevcut kitapları düzenleyebilirsiniz.
-  ![kitap-düzenleme](https://github.com/GoktugErtekin/Library-Project/assets/130211667/82bf3f97-e324-4332-8830-d7bcfb520640)
+- ![kitap-düzenleme](https://github.com/GoktugErtekin/Library-Project/assets/130211667/82bf3f97-e324-4332-8830-d7bcfb520640)
+
+
+  
 - Kitap Silme: Kitapları kütüphaneden kaldırabilirsiniz.
-  ![kitap-silme](https://github.com/GoktugErtekin/Library-Project/assets/130211667/22072401-fc68-49c0-8db8-0be567060855)
+- ![kitap-silme](https://github.com/GoktugErtekin/Library-Project/assets/130211667/22072401-fc68-49c0-8db8-0be567060855)
 
 ## Kullanılan Teknolojiler
 
@@ -27,7 +39,7 @@ Bu proje, kullanıcıların kitapları görüntülemelerine, filtrelemelerine, e
 
  ## Nasıl Çalıştırılır
 
-Projeyi VSCode uygulamasında açtıktan sonra cmd konsolu oluşturup "npm run api" yazın. APİ çalıştıktan sonra başka bir terminalde "npm start" yazarak projeyi çalıştırabilirsiniz.
+Projeyi VSCode uygulamasında açtıktan sonra cmd konsolu oluşturup "npm run api" ile fake APİ'yi çalıştırın. APİ çalıştıktan sonra başka bir terminalde "npm start" yazarak projeyi çalıştırabilirsiniz.
 
 ## Kullanılabilir Komutlar
 
